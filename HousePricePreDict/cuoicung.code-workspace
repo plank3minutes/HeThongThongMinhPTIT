@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../cuoicung"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../sentimentRP"
+		}
+	],
+	"settings": {}
+}
