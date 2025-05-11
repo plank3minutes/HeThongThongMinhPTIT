@@ -1,0 +1,1 @@
+In short, this is one of final projects in the first part of 4th years in PTIT. This course is instructed by Master's degree holder Mr.TranDinhQue. The project is about an AI model that can craw data from websites to make suitable prediction about the accomodation price in Ha Dong, HN and a simple web front end for illustation.
